@@ -9,7 +9,7 @@
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
-**Your demo:** (https://www.youtube.com/watch?v=8EoTUkOGFMQ)
+**Your demo:** (https://youtu.be/LP44gbzJYgU)
 
 
 ## What to build

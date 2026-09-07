@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Practice 2 — Jaylen
+// Practice 2 — Jaylen Chae 
 // CIS 5 Week 02 · Structure polish
 
 // Using the  for std:: for short cut
